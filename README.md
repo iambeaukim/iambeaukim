@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
-<br/><br/>
+<br/>
 
 #### Tools
 <p>
