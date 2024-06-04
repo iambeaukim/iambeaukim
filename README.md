@@ -8,7 +8,7 @@
 ## 😎 About Me
 
 <p>
-  👋&nbsp; Hello there! <br/>
+  Hello there!   👋&nbsp;  <br/>
   I'm <b>back-end developer</b> with 5 years of experience.😊 <br/>
   I have started my back-end development journey with JAVA, Spring Boot, and have since expanded my expertise to include Typescript, NestJS.🚀<br/>
   I am passionate about building sustainable software that is highly scalable, maintainable, and reliable. (with loving clean code & clean architecture💖)<br/>
