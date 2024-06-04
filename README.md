@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambeaukim)](https://github.com/iambeaukim/github-readme-stats)
-
 <br/>
 
 #### Tools
@@ -49,6 +47,9 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
+
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambeaukim)](https://github.com/iambeaukim/github-readme-stats)
 
 <br/><br/>
 
