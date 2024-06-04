@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambeaukim)](https://github.com/iambeaukim/github-readme-stats)
+
 <br/>
 
 #### Tools
@@ -58,7 +60,9 @@
 
 <br/><br/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiambeaukim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>        
+<p>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiambeaukim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambeaukim)](https://github.com/iambeaukim/github-readme-stats)
+
 
