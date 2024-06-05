@@ -14,7 +14,7 @@
   Building sustainable software that's highly scalable, maintainable, and reliable is my focus of recent interest (Clean code and clean architecture are my jam!💖)<br/>
   I believe this approach contributes to business growth, cost reduction, and user retention. ✨
   <br/><br/>
-  In my free time, I enjoy riding motorcycles and spending time with my adorable dogs.🏍️🐶<br/>
+  I enjoy riding motorcycles🏍️ and spending time with my adorable family(👰🐶❤️)<br/>
 </p>
 
 <br/><br/>
